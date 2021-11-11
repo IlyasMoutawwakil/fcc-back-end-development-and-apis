@@ -1,6 +1,6 @@
 # fcc-back-end-development-and-apis
 ## Context
-My 5 Node.js and Express.js projects that I've built as part of my freeCodeCamp assignment.
+My 5 Node.js, Express.js and MongoDB projects that I've built as part of my freeCodeCamp assignment.
 
 
 
